@@ -23,11 +23,6 @@
 | 1 | IT | 
 | 2 | Sales | 
 
-
-💪 Mastering automation testing to improve software quality
-
-🚀 Unleashing the potential of using Selenium WebDriver for automation
-
 # Solution
 1. Return Employee record with highest salary
 ```
@@ -77,7 +72,11 @@ FROM Employee e join department1 d ON e.department_id=d.department_id
 SELECT 
 first_name, emp_id, department_id, department_name,salary FROM table_t WHERE rnum=1
 ```
+-----------------------------------------------------------------------------------------------------------------
 
+💪 Mastering automation testing to improve software quality
+
+🚀 Unleashing the potential of using Selenium WebDriver for automation
 
 
 
