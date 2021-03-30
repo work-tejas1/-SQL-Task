@@ -1,4 +1,4 @@
-# SQL SevenSender Task2
+# SQL seleniumRepo2
 
 ## Prerequisites 
    **Microsoft SQL Server Management Studio 18**
