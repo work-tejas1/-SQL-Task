@@ -1,4 +1,4 @@
-# SQL seleniumRepo2
+# SQL Task
 
 ## Prerequisites 
    **Microsoft SQL Server Management Studio 18**
